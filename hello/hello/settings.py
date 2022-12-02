@@ -29,7 +29,7 @@ ALLOWED_HOSTS = []
 
 
 # Application definition
-# qwerty33
+# qwerty33 litle pist
 INSTALLED_APPS = [
     'qwerty',
     'django.contrib.admin',
